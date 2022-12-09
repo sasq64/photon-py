@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="324e6c57-1fa6-4460-8cd9-5e812d71a750" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../examples/data/Hack.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examples/data/Impact.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examples/data/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examples/data/ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examples/data/dundat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examples/data/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examples/data/face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examples/data/hyperspace.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examples/data/hyperspace_bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examples/data/invaders.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examples/data/minirogue-all.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examples/data/mono_tiles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examples/data/ufo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examples/data/unscii-16.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examples/data/vector.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pixpy/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asteroidfont.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/asteroidfont.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asteroids.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/asteroids.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bubbles.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/bubbles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circle_scroller.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/circle_scroller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/console.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dungen.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/dungen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/editor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/events.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/example1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/example2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/example3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/example4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invaders.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/invaders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/life.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/life.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mad.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/mad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/name.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oneline.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/oneline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photon-example.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/photon-example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repl.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/repl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sierpinski_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/sierpinski_triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/space.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/space.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/tiles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/turtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/turtle_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/python.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../src/python.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2IH2bI23GqnsBO0QMVEzpJUj8Lw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="324e6c57-1fa6-4460-8cd9-5e812d71a750" name="Changes" comment="" />
+      <created>1669824258256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669824258256</updated>
+      <workItem from="1669824259958" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
